@@ -6,7 +6,7 @@
 This repo contains code for automating data pipelines and data engineering tasks. The purpose of this repo is to build automated data pipelines that -
   
 - Query data from REST APIs using `requests`.
-- Perform data cleaning and transformations.
+- Using `json` and `pandas` tp clean and transform the raw data.
 - Storing data into relational databases using `sqlite` and `sqlalchemy`.
 - Update databases on a schedule using `cron` and `airflow`.
 
