@@ -1,0 +1,639 @@
+[
+    {
+        "station": "SFOC1",
+        "day": 1704067200000,
+        "max_temp_f": 59,
+        "min_temp_f": 48,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1704153600000,
+        "max_temp_f": 61,
+        "min_temp_f": 48,
+        "precip_in": 0.31
+    },
+    {
+        "station": "SFOC1",
+        "day": 1704240000000,
+        "max_temp_f": 56,
+        "min_temp_f": 48,
+        "precip_in": 0.05
+    },
+    {
+        "station": "SFOC1",
+        "day": 1704326400000,
+        "max_temp_f": 61,
+        "min_temp_f": 47,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1704412800000,
+        "max_temp_f": 62,
+        "min_temp_f": 50,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1704499200000,
+        "max_temp_f": 55,
+        "min_temp_f": 47,
+        "precip_in": 0.1
+    },
+    {
+        "station": "SFOC1",
+        "day": 1704585600000,
+        "max_temp_f": 55,
+        "min_temp_f": 42,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1704672000000,
+        "max_temp_f": 56,
+        "min_temp_f": 44,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1704758400000,
+        "max_temp_f": 57,
+        "min_temp_f": 48,
+        "precip_in": 0.25
+    },
+    {
+        "station": "SFOC1",
+        "day": 1704844800000,
+        "max_temp_f": 56,
+        "min_temp_f": 45,
+        "precip_in": 0.32
+    },
+    {
+        "station": "SFOC1",
+        "day": 1704931200000,
+        "max_temp_f": 55,
+        "min_temp_f": 43,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1705017600000,
+        "max_temp_f": 54,
+        "min_temp_f": 44,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1705104000000,
+        "max_temp_f": 55,
+        "min_temp_f": 48,
+        "precip_in": 0.9
+    },
+    {
+        "station": "SFOC1",
+        "day": 1705190400000,
+        "max_temp_f": 59,
+        "min_temp_f": 49,
+        "precip_in": 0.02
+    },
+    {
+        "station": "SFOC1",
+        "day": 1705276800000,
+        "max_temp_f": 59,
+        "min_temp_f": 49,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1705363200000,
+        "max_temp_f": 57,
+        "min_temp_f": 49,
+        "precip_in": 0.6
+    },
+    {
+        "station": "SFOC1",
+        "day": 1705449600000,
+        "max_temp_f": 59,
+        "min_temp_f": 51,
+        "precip_in": 0.02
+    },
+    {
+        "station": "SFOC1",
+        "day": 1705536000000,
+        "max_temp_f": 58,
+        "min_temp_f": 49,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1705622400000,
+        "max_temp_f": 56,
+        "min_temp_f": 51,
+        "precip_in": 0.24
+    },
+    {
+        "station": "SFOC1",
+        "day": 1705708800000,
+        "max_temp_f": 58,
+        "min_temp_f": 53,
+        "precip_in": 0.19
+    },
+    {
+        "station": "SFOC1",
+        "day": 1705795200000,
+        "max_temp_f": 61,
+        "min_temp_f": 53,
+        "precip_in": 0.54
+    },
+    {
+        "station": "SFOC1",
+        "day": 1705881600000,
+        "max_temp_f": 59,
+        "min_temp_f": 53,
+        "precip_in": 0.77
+    },
+    {
+        "station": "SFOC1",
+        "day": 1705968000000,
+        "max_temp_f": 60,
+        "min_temp_f": 52,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1706054400000,
+        "max_temp_f": 59,
+        "min_temp_f": 52,
+        "precip_in": 0.59
+    },
+    {
+        "station": "SFOC1",
+        "day": 1706140800000,
+        "max_temp_f": 60,
+        "min_temp_f": 50,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1706227200000,
+        "max_temp_f": 62,
+        "min_temp_f": 52,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1706313600000,
+        "max_temp_f": 63,
+        "min_temp_f": 52,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1706400000000,
+        "max_temp_f": 68,
+        "min_temp_f": 56,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1706486400000,
+        "max_temp_f": 73,
+        "min_temp_f": 53,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1706572800000,
+        "max_temp_f": 66,
+        "min_temp_f": 54,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1706659200000,
+        "max_temp_f": 60,
+        "min_temp_f": 53,
+        "precip_in": 1.67
+    },
+    {
+        "station": "SFOC1",
+        "day": 1706745600000,
+        "max_temp_f": 60,
+        "min_temp_f": 49,
+        "precip_in": 1.07
+    },
+    {
+        "station": "SFOC1",
+        "day": 1706832000000,
+        "max_temp_f": 58,
+        "min_temp_f": 49,
+        "precip_in": 0.22
+    },
+    {
+        "station": "SFOC1",
+        "day": 1706918400000,
+        "max_temp_f": 55,
+        "min_temp_f": 48,
+        "precip_in": 0.41
+    },
+    {
+        "station": "SFOC1",
+        "day": 1707004800000,
+        "max_temp_f": 61,
+        "min_temp_f": 47,
+        "precip_in": 1.31
+    },
+    {
+        "station": "SFOC1",
+        "day": 1707091200000,
+        "max_temp_f": 57,
+        "min_temp_f": 50,
+        "precip_in": 0.3
+    },
+    {
+        "station": "SFOC1",
+        "day": 1707177600000,
+        "max_temp_f": 57,
+        "min_temp_f": 47,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1707264000000,
+        "max_temp_f": 53,
+        "min_temp_f": 48,
+        "precip_in": 0.45
+    },
+    {
+        "station": "SFOC1",
+        "day": 1707350400000,
+        "max_temp_f": 55,
+        "min_temp_f": 43,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1707436800000,
+        "max_temp_f": 57,
+        "min_temp_f": 45,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1707523200000,
+        "max_temp_f": 62,
+        "min_temp_f": 47,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1707609600000,
+        "max_temp_f": 59,
+        "min_temp_f": 48,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1707696000000,
+        "max_temp_f": 60,
+        "min_temp_f": 47,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1707782400000,
+        "max_temp_f": 58,
+        "min_temp_f": 49,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1707868800000,
+        "max_temp_f": 58,
+        "min_temp_f": 51,
+        "precip_in": 0.25
+    },
+    {
+        "station": "SFOC1",
+        "day": 1707955200000,
+        "max_temp_f": 59,
+        "min_temp_f": 51,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1708041600000,
+        "max_temp_f": 60,
+        "min_temp_f": 52,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1708128000000,
+        "max_temp_f": 58,
+        "min_temp_f": 53,
+        "precip_in": 0.3
+    },
+    {
+        "station": "SFOC1",
+        "day": 1708214400000,
+        "max_temp_f": 64,
+        "min_temp_f": 51,
+        "precip_in": 0.22
+    },
+    {
+        "station": "SFOC1",
+        "day": 1708300800000,
+        "max_temp_f": 62,
+        "min_temp_f": 53,
+        "precip_in": 0.12
+    },
+    {
+        "station": "SFOC1",
+        "day": 1708387200000,
+        "max_temp_f": 58,
+        "min_temp_f": 51,
+        "precip_in": 1.5
+    },
+    {
+        "station": "SFOC1",
+        "day": 1708473600000,
+        "max_temp_f": 60,
+        "min_temp_f": 48,
+        "precip_in": 0.02
+    },
+    {
+        "station": "SFOC1",
+        "day": 1708560000000,
+        "max_temp_f": 61,
+        "min_temp_f": 50,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1708646400000,
+        "max_temp_f": 66,
+        "min_temp_f": 50,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1708732800000,
+        "max_temp_f": 71,
+        "min_temp_f": 53,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1708819200000,
+        "max_temp_f": 63,
+        "min_temp_f": 53,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1708905600000,
+        "max_temp_f": 62,
+        "min_temp_f": 51,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1708992000000,
+        "max_temp_f": 61,
+        "min_temp_f": 47,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1709078400000,
+        "max_temp_f": 66,
+        "min_temp_f": 48,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1709164800000,
+        "max_temp_f": 59,
+        "min_temp_f": 51,
+        "precip_in": 0.1
+    },
+    {
+        "station": "SFOC1",
+        "day": 1709251200000,
+        "max_temp_f": 57,
+        "min_temp_f": 49,
+        "precip_in": 1.17
+    },
+    {
+        "station": "SFOC1",
+        "day": 1709337600000,
+        "max_temp_f": 54,
+        "min_temp_f": 44,
+        "precip_in": 0.35
+    },
+    {
+        "station": "SFOC1",
+        "day": 1709424000000,
+        "max_temp_f": 55,
+        "min_temp_f": 45,
+        "precip_in": 0.17
+    },
+    {
+        "station": "SFOC1",
+        "day": 1709510400000,
+        "max_temp_f": 58,
+        "min_temp_f": 46,
+        "precip_in": 0.14
+    },
+    {
+        "station": "SFOC1",
+        "day": 1709596800000,
+        "max_temp_f": 60,
+        "min_temp_f": 49,
+        "precip_in": 0.02
+    },
+    {
+        "station": "SFOC1",
+        "day": 1709683200000,
+        "max_temp_f": 57,
+        "min_temp_f": 50,
+        "precip_in": 0.07
+    },
+    {
+        "station": "SFOC1",
+        "day": 1709769600000,
+        "max_temp_f": 60,
+        "min_temp_f": 49,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1709856000000,
+        "max_temp_f": 65,
+        "min_temp_f": 47,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1709942400000,
+        "max_temp_f": 60,
+        "min_temp_f": 51,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1710028800000,
+        "max_temp_f": 62,
+        "min_temp_f": 49,
+        "precip_in": 0.11
+    },
+    {
+        "station": "SFOC1",
+        "day": 1710115200000,
+        "max_temp_f": 59,
+        "min_temp_f": 48,
+        "precip_in": 0.13
+    },
+    {
+        "station": "SFOC1",
+        "day": 1710201600000,
+        "max_temp_f": 60,
+        "min_temp_f": 50,
+        "precip_in": 0.38
+    },
+    {
+        "station": "SFOC1",
+        "day": 1710288000000,
+        "max_temp_f": 61,
+        "min_temp_f": 48,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1710374400000,
+        "max_temp_f": 68,
+        "min_temp_f": 57,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1710460800000,
+        "max_temp_f": 73,
+        "min_temp_f": 60,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1710547200000,
+        "max_temp_f": 67,
+        "min_temp_f": 53,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1710633600000,
+        "max_temp_f": 61,
+        "min_temp_f": 49,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1710720000000,
+        "max_temp_f": 60,
+        "min_temp_f": 51,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1710806400000,
+        "max_temp_f": 60,
+        "min_temp_f": 50,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1710892800000,
+        "max_temp_f": 60,
+        "min_temp_f": 49,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1710979200000,
+        "max_temp_f": 65,
+        "min_temp_f": 52,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1711065600000,
+        "max_temp_f": 65,
+        "min_temp_f": 51,
+        "precip_in": 0.48
+    },
+    {
+        "station": "SFOC1",
+        "day": 1711152000000,
+        "max_temp_f": 59,
+        "min_temp_f": 51,
+        "precip_in": 0.12
+    },
+    {
+        "station": "SFOC1",
+        "day": 1711238400000,
+        "max_temp_f": 58,
+        "min_temp_f": 49,
+        "precip_in": 0.07
+    },
+    {
+        "station": "SFOC1",
+        "day": 1711324800000,
+        "max_temp_f": 57,
+        "min_temp_f": 50,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1711411200000,
+        "max_temp_f": 60,
+        "min_temp_f": 49,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1711497600000,
+        "max_temp_f": 59,
+        "min_temp_f": 51,
+        "precip_in": 0.2
+    },
+    {
+        "station": "SFOC1",
+        "day": 1711584000000,
+        "max_temp_f": 61,
+        "min_temp_f": 51,
+        "precip_in": 0
+    },
+    {
+        "station": "SFOC1",
+        "day": 1711670400000,
+        "max_temp_f": 53,
+        "min_temp_f": 49,
+        "precip_in": 0.55
+    },
+    {
+        "station": "SFOC1",
+        "day": 1711756800000,
+        "max_temp_f": 62,
+        "min_temp_f": 49,
+        "precip_in": 0.04
+    },
+    {
+        "station": "SFOC1",
+        "day": 1711843200000,
+        "max_temp_f": 62,
+        "min_temp_f": 51,
+        "precip_in": 0
+    }
+]
