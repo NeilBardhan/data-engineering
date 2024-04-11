@@ -38,20 +38,6 @@ INSERT INTO author (first_name, last_name) VALUES ('Tom', 'Clancy');
 INSERT INTO author (first_name, last_name) VALUES ('Isaac', 'Asimov');
 ```
 
-We can select data from our table using the `SELECT` command.
-
-```sql
-SELECT * FROM author;
-```
-
-`SELECT *`  will return all columns from the `author` table. Since there is no `WHERE` clause, all rows will be returned as well.
-
-```
-SELECT first_name, last_name FROM author WHERE author_id = 1;
-```
-
-The above statement will return the first and last names of the author whose `author_id` is `1`. Since `author_id` is the primary key, only one row will be returned.
-
 We can create a `book` table as follows - 
 
 ```sql
@@ -74,5 +60,53 @@ INSERT INTO book (title, author_id) VALUES ('Foundation', 4);
 
 The above statement inserts `Foundation` and ties it to `Isaac Asimov`, the author whose `author_id` is `4`.
 
+We can add as many books into the `book` table as long as we have a corresponding author in the `author` table.
 
+```SQL
+INSERT INTO book (title, author_id) VALUES ('The Good Earth', 1);
+INSERT INTO book (title, author_id) VALUES ('Adventures of Huckleberry Finn', 2);
+INSERT INTO book (title, author_id) VALUES ('Life on the Mississippi', 2);
+INSERT INTO book (title, author_id) VALUES ('The Hunt for Red October', 3);
+```
+
+## `SELECT` Statements
+
+We can select data from our tables using the `SELECT` command.
+
+```sql
+SELECT * FROM author;
+```
+
+`SELECT *`  will return all columns from the `author` table. Since there is no `WHERE` clause, all rows will be returned as well.
+
+### `WHERE` Clause
+
+We can **filter** our `SELECT` statements using the `WHERE` clause, wherein we specify conditions that must be met by the rows being returned.
+
+```sql
+SELECT first_name, last_name FROM author WHERE author_id = 1;
+```
+
+The above statement will return the first and last names of the author whose `author_id` is `1`. Since `author_id` is the primary key, only one row will be returned.
+
+If we wanted to view the titles of all books alongside the author names, we would first **join** the tables on the `author_id` before `SELECT`ing from the resulting table.
+
+```sql
+SELECT
+a.first_name, a.last_name, b.title AS book_title
+FROM author a JOIN book b
+ON b.author_id = a.author_id
+ORDER BY a.last_name asc;
+```
+
+We can have complex conditions in a `WHERE` clause. If we want to see the titles of all books written by `Mark Twain`, we can run the following SQL query.
+
+```sql
+SELECT b.title
+FROM author a JOIN book b
+ON b.author_id = a.author_id
+WHERE a.first_name = 'Mark' AND a.last_name = 'Twain';
+```
+
+## Wrapping Up
 To leave the `sqlite` command line session: `Ctrl + D`
